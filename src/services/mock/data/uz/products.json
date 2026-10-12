@@ -1,0 +1,10 @@
+[
+  { "id": "core-banking", "name": "ABS (bank yadrosi)" },
+  { "id": "scoring", "name": "Kredit skoringi" },
+  { "id": "aml", "name": "AML va monitoring" },
+  { "id": "islamic-banking", "name": "Islomiy banking" },
+  { "id": "erp-bpm", "name": "ERP / BPM" },
+  { "id": "edm", "name": "Elektron hujjat aylanishi" },
+  { "id": "gov-platforms", "name": "Davlat platformalari" },
+  { "id": "other", "name": "Boshqa" }
+]

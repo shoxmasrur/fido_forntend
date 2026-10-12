@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Fido Biznes — moliya bozorining raqamli infratuzilmasi"
+  },
+  "languages": {
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Kompaniya haqida",
+    "services": "Xizmatlar",
+    "cases": "Loyihalar",
+    "products": "Mahsulotlar",
+    "solutions": "Yechimlar",
+    "press": "Matbuot markazi",
+    "career": "Karyera",
+    "contacts": "Kontaktlar"
+  },
+  "header": {
+    "requestDemo": "Demo so‘rash",
+    "openMenu": "Menyuni ochish",
+    "closeMenu": "Menyuni yopish",
+    "changeLanguage": "Tilni o‘zgartirish"
+  },
+  "common": {
+    "viewAll": "Barchasini ko‘rish",
+    "more": "Batafsil",
+    "read": "Ko‘rish",
+    "project": "Loyiha",
+    "loading": "Yuklanmoqda...",
+    "error": "Ma’lumotlarni yuklab bo‘lmadi.",
+    "retry": "Qayta urinish",
+    "close": "Yopish"
+  },
+  "form": {
+    "title": "Demo so‘rovi",
+    "fullName": "F.I.Sh.",
+    "fullNamePlaceholder": "Ism va familiya",
+    "position": "Lavozim",
+    "positionPlaceholder": "CIO / CTO / IT-direktor",
+    "company": "Kompaniya",
+    "companyPlaceholder": "Tashkilot nomi",
+    "phone": "Telefon raqami",
+    "phonePlaceholder": "+998 97 --- -- --",
+    "email": "Email",
+    "emailPlaceholder": "email@company.com",
+    "product": "Mahsulot",
+    "productPlaceholder": "Mahsulotni tanlang",
+    "message": "Xabar",
+    "messagePlaceholder": "Vazifani qisqacha tavsiflang",
+    "submit": "So‘rov yuborish",
+    "sending": "Yuborilmoqda...",
+    "agreement": "Ushbu forma orqali ma’lumotlaringizni yuborib, siz ularni Maxfiylik siyosatiga muvofiq qayta ishlashga rozilik bildirasiz.",
+    "errors": {
+      "required": "Majburiy maydon",
+      "phone": "Telefon raqamini to‘liq kiriting",
+      "email": "Email noto‘g‘ri kiritilgan",
+      "send": "So‘rovni yuborib bo‘lmadi. Birozdan so‘ng qayta urinib ko‘ring.",
+      "config": "Telegram sozlanmagan: .env faylida VITE_TG_BOT_TOKEN va VITE_TG_CHAT_ID ni kiriting."
+    },
+    "success": {
+      "header": "Ariza qabul qilindi",
+      "title": "So‘rovingiz uchun rahmat!",
+      "description": "So‘rovingiz muvaffaqiyatli yuborildi. Menejer 1 ish kuni ichida siz bilan bog‘lanadi.",
+      "cases": "Loyihalarni ko‘rish",
+      "home": "Bosh sahifaga qaytish"
+    },
+    "callCenter": "Call-markaz",
+    "emailLabel": "Elektron pochta"
+  },
+  "notFound": {
+    "title": "Sahifa topilmadi",
+    "text": "Sahifa ko‘chirilgan, o‘chirilgan yoki manzil noto‘g‘ri kiritilgan bo‘lishi mumkin. Bosh sahifaga qayting yoki yechimlar bo‘limini ko‘ring.",
+    "home": "Bosh sahifaga",
+    "solutions": "Barcha yechimlar"
+  },
+  "placeholder": {
+    "badge": "Tez orada",
+    "title": "Bo‘lim ishlab chiqilmoqda",
+    "text": "Bu sahifa hozircha tayyorlanmoqda. Ungacha bosh sahifadagi ma’lumotlar bilan tanishishingiz mumkin.",
+    "back": "Bosh sahifaga"
+  },
+  "footer": {
+    "follow": "Bizni kuzating"
+  }
+}

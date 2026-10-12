@@ -1,0 +1,10 @@
+[
+  { "id": "core-banking", "name": "ABS (core banking)" },
+  { "id": "scoring", "name": "Credit scoring" },
+  { "id": "aml", "name": "AML and monitoring" },
+  { "id": "islamic-banking", "name": "Islamic banking" },
+  { "id": "erp-bpm", "name": "ERP / BPM" },
+  { "id": "edm", "name": "Electronic document management" },
+  { "id": "gov-platforms", "name": "Government platforms" },
+  { "id": "other", "name": "Other" }
+]

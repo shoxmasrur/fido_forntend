@@ -1,0 +1,26 @@
+.tagline {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 4px 14px 4px 4px;
+  border-radius: var(--radius-pill);
+  background: rgba(248, 248, 248, 0.08);
+  border: 1px solid rgba(248, 248, 248, 0.14);
+  backdrop-filter: blur(10px);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #fff;
+}
+
+.icon {
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+}
+
+@media (max-width: 767px) {
+  .tagline {
+    font-size: 14px;
+  }
+}

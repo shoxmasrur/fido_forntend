@@ -1,0 +1,197 @@
+{
+  "hero": {
+    "badge": "30+ years in the Uzbekistan market",
+    "title": "Building the digital infrastructure of the financial market",
+    "description": "Corporate banking systems, government platforms, and AI infrastructure (artificial intelligence) for financial and public institutions across Central Asia. Since 1993.",
+    "primaryCta": "Presentation",
+    "secondaryCta": "Get a consultation",
+    "image": "hero-bg"
+  },
+  "metrics": {
+    "tagline": "Numbers you can trust",
+    "title": "Achievements proven over time",
+    "description": "We know the financial market from the inside. Three decades of experience, dozens of successfully delivered projects, and products used every day — this is what our clients’ trust is built on.",
+    "items": [
+      {
+        "icon": "work",
+        "value": "30+",
+        "label": "years of successful work"
+      },
+      {
+        "icon": "group",
+        "value": "40+",
+        "label": "satisfied clients"
+      },
+      {
+        "icon": "tableRows",
+        "value": "50+",
+        "label": "financial products"
+      },
+      {
+        "icon": "headset",
+        "value": "24/7",
+        "label": "customer support"
+      }
+    ]
+  },
+  "industries": {
+    "tagline": "Industries",
+    "title": "Technology for finance, business, and government",
+    "image": "industries",
+    "items": [
+      {
+        "icon": "payments",
+        "title": "Financial",
+        "description": "Corporate banking systems, ABS, scoring, AML, Islamic banking.",
+        "link": "/solutions"
+      },
+      {
+        "icon": "city",
+        "title": "Government",
+        "description": "Government platforms, identification, registries, tax services.",
+        "link": "/solutions"
+      },
+      {
+        "icon": "work",
+        "title": "Enterprise",
+        "description": "ERP, BPM, document management, BI, and AI assistants for large companies.",
+        "link": "/solutions"
+      },
+      {
+        "icon": "school",
+        "title": "Academy",
+        "description": "Educational products, development training, and workforce reskilling.",
+        "link": "/solutions"
+      }
+    ]
+  },
+  "methodology": {
+    "tagline": "Services",
+    "title": "Implementation methodology\nfrom diagnostics to ongoing support",
+    "items": [
+      {
+        "id": "diagnostics",
+        "title": "Diagnostics",
+        "description": "IT infrastructure audit, business process analysis, and readiness assessment for implementing digital solutions",
+        "duration": "2–4 weeks",
+        "image": "method-diagnostics"
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture",
+        "description": "We design the solution architecture, integrations, and implementation roadmap based on business and technical requirements",
+        "duration": "4–6 weeks",
+        "image": "method-architecture"
+      },
+      {
+        "id": "implementation",
+        "title": "Implementation",
+        "description": "Phased implementation: configuration, data migration, integration, testing, and user training",
+        "duration": "3–12 months",
+        "image": "method-implementation"
+      },
+      {
+        "id": "support",
+        "title": "Support",
+        "description": "Round-the-clock support, monitoring, rapid incident resolution, and regular updates",
+        "duration": "Ongoing",
+        "image": "method-support"
+      }
+    ]
+  },
+  "clients": {
+    "tagline": "Our clients",
+    "title": "Companies that choose us"
+  },
+  "cases": {
+    "tagline": "Cases",
+    "title": "Metrics, not\npress releases",
+    "featured": {
+      "title": "Launch of a new ABS at one of the top-5 banks in Uzbekistan",
+      "quote": "“We launched the core banking system in 9 months. The Fido team did what three previous contractors couldn’t in 4 years.”",
+      "image": "case-main",
+      "metrics": [
+        {
+          "value": "−47%",
+          "label": "time to market"
+        },
+        {
+          "value": "+120%",
+          "label": "transactions/sec"
+        }
+      ]
+    },
+    "items": [
+      {
+        "id": "tax-platform",
+        "category": "Government",
+        "title": "Tax platform",
+        "description": "We built a tax platform for a government agency. Declaration processing became 63% faster.",
+        "image": "case-tax",
+        "metric": {
+          "value": "−63%",
+          "label": "processing time for the declaration"
+        }
+      },
+      {
+        "id": "mfi-scoring",
+        "category": "Enterprise",
+        "title": "MFI scoring",
+        "description": "A credit scoring system for a microfinance organization. We automated application decision-making: 8,500 processes without manual handling.",
+        "image": "case-scoring",
+        "metric": {
+          "value": "8 500",
+          "label": "automated processes"
+        }
+      }
+    ]
+  },
+  "insights": {
+    "tagline": "This is interesting",
+    "title": "Useful insights about fintech",
+    "posts": [
+      {
+        "id": "fintech-course",
+        "date": "2026-08-14",
+        "title": "A fintech course is launching in Tashkent",
+        "excerpt": "The new program trains specialists for banks and fintech companies. Here is what it teaches and who it is for.",
+        "image": "blog-1"
+      },
+      {
+        "id": "core-banking-migration",
+        "date": "2026-07-30",
+        "title": "Core banking migration: 5 key mistakes",
+        "excerpt": "Our hands-on experience: the most common mistakes in ABS replacement projects and how to avoid them.",
+        "image": "blog-2"
+      },
+      {
+        "id": "ai-in-scoring",
+        "date": "2026-07-12",
+        "title": "Artificial intelligence in credit scoring",
+        "excerpt": "How machine learning models shorten application review time and reduce risks.",
+        "image": "blog-3"
+      },
+      {
+        "id": "open-banking",
+        "date": "2026-06-25",
+        "title": "Open Banking: what Uzbek banks should prepare for",
+        "excerpt": "Open API standards, regulatory requirements, and the first integration steps.",
+        "image": "blog-4"
+      },
+      {
+        "id": "islamic-banking",
+        "date": "2026-06-08",
+        "title": "Islamic banking: technology solutions",
+        "excerpt": "Which systems are needed to automate Sharia-compliant products.",
+        "image": "blog-1"
+      },
+      {
+        "id": "gov-platforms",
+        "date": "2026-05-21",
+        "title": "Lessons from digitizing public services",
+        "excerpt": "The challenges we faced building registries and tax platforms, and how we solved them.",
+        "image": "blog-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+.page {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.main {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+}
+
+.background {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.ellipse {
+  position: absolute;
+  width: 856px;
+  height: 856px;
+  border-radius: 50%;
+  background: var(--color-glow);
+  filter: blur(220px);
+  opacity: 0.55;
+}
+
+.e1 {
+  top: 1600px;
+  left: -460px;
+}
+
+.e2 {
+  top: 2150px;
+  right: -460px;
+}
+
+.e3 {
+  top: 3900px;
+  left: -460px;
+}
+
+.e4 {
+  top: 4450px;
+  right: -460px;
+}
+
+@media (max-width: 767px) {
+  .ellipse {
+    width: 480px;
+    height: 480px;
+    filter: blur(140px);
+  }
+}

@@ -1,0 +1,10 @@
+[
+  { "id": "core-banking", "name": "АБС (банковское ядро)" },
+  { "id": "scoring", "name": "Кредитный скоринг" },
+  { "id": "aml", "name": "AML и мониторинг" },
+  { "id": "islamic-banking", "name": "Исламский банкинг" },
+  { "id": "erp-bpm", "name": "ERP / BPM" },
+  { "id": "edm", "name": "Электронный документооборот" },
+  { "id": "gov-platforms", "name": "Государственные платформы" },
+  { "id": "other", "name": "Другое" }
+]

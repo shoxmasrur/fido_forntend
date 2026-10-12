@@ -1,0 +1,12 @@
+{
+  "footer": {
+    "title": "Tezlik uchun yaratilgan, kengayishga tayyor",
+    "text": "Banklar, biznes va davlat tuzilmalari uchun ishonchli raqamli yechimlarni ishlab chiqamiz va joriy etamiz — diagnostikadan doimiy qo‘llab-quvvatlashgacha.",
+    "columns": [
+      { "title": "Sahifalar", "links": [{ "label": "Bosh sahifa", "to": "/" }, { "label": "Kompaniya haqida", "to": "/about" }, { "label": "Xizmatlar", "to": "/services" }, { "label": "Mahsulotlar", "to": "/products" }, { "label": "Yechimlar", "to": "/solutions" }] },
+      { "title": "Foydali", "links": [{ "label": "Loyihalar", "to": "/cases" }, { "label": "Matbuot markazi", "to": "/press" }, { "label": "Karyera", "to": "/career" }] },
+      { "title": "Aloqa", "links": [{ "label": "Kontaktlar", "to": "/contacts" }] }
+    ],
+    "copyright": "© 2026 Fido Biznes. Barcha huquqlar himoyalangan."
+  }
+}

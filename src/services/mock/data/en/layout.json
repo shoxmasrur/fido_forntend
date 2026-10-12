@@ -1,0 +1,12 @@
+{
+  "footer": {
+    "title": "Built for speed, ready to scale",
+    "text": "We develop and implement reliable digital solutions for banks, businesses, and government agencies — from diagnostics to ongoing support.",
+    "columns": [
+      { "title": "Pages", "links": [{ "label": "Home", "to": "/" }, { "label": "About", "to": "/about" }, { "label": "Services", "to": "/services" }, { "label": "Products", "to": "/products" }, { "label": "Solutions", "to": "/solutions" }] },
+      { "title": "Useful", "links": [{ "label": "Cases", "to": "/cases" }, { "label": "Press center", "to": "/press" }, { "label": "Careers", "to": "/career" }] },
+      { "title": "Contact", "links": [{ "label": "Contacts", "to": "/contacts" }] }
+    ],
+    "copyright": "© 2026 Fido Biznes. All rights reserved."
+  }
+}

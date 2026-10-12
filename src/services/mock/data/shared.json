@@ -1,0 +1,26 @@
+{
+  "clients": [
+    { "id": "client-01", "name": "Client 1", "image": "client-01" },
+    { "id": "client-02", "name": "Client 2", "image": "client-02" },
+    { "id": "client-03", "name": "Client 3", "image": "client-03" },
+    { "id": "client-04", "name": "Client 4", "image": "client-04" },
+    { "id": "client-05", "name": "Client 5", "image": "client-05" },
+    { "id": "client-06", "name": "Client 6", "image": "client-06" },
+    { "id": "client-07", "name": "Client 7", "image": "client-07" },
+    { "id": "client-08", "name": "Client 8", "image": "client-08" },
+    { "id": "client-09", "name": "Client 9", "image": "client-09" },
+    { "id": "client-10", "name": "Client 10", "image": "client-10" },
+    { "id": "client-11", "name": "Client 11", "image": "client-11" },
+    { "id": "client-12", "name": "Client 12", "image": "client-12" }
+  ],
+  "contacts": {
+    "phone": "+998 71 200 00 00",
+    "email": "info@fido-biznes.uz"
+  },
+  "socials": [
+    { "id": "linkedin", "icon": "linkedin", "label": "LinkedIn", "url": "https://www.linkedin.com" },
+    { "id": "twitter", "icon": "twitter", "label": "X", "url": "https://x.com" },
+    { "id": "instagram", "icon": "instagram", "label": "Instagram", "url": "https://www.instagram.com" },
+    { "id": "facebook", "icon": "facebook", "label": "Facebook", "url": "https://www.facebook.com" }
+  ]
+}

@@ -1,0 +1,10 @@
+.wrap {
+  display: none;
+  margin-top: 16px;
+}
+
+@media (max-width: 767px) {
+  .wrap {
+    display: block;
+  }
+}

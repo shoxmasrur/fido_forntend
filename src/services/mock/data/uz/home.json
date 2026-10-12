@@ -1,0 +1,197 @@
+{
+  "hero": {
+    "badge": "O‘zbekiston Respublikasi bozorida 30+ yil",
+    "title": "Moliya bozorining raqamli infratuzilmasini barpo etamiz",
+    "description": "Markaziy Osiyodagi moliyaviy va davlat institutlari uchun korporativ bank tizimlari, davlat platformalari va AI-infratuzilma (sun’iy intellekt). 1993-yildan beri.",
+    "primaryCta": "Taqdimot",
+    "secondaryCta": "Konsultatsiya olish",
+    "image": "hero-bg"
+  },
+  "metrics": {
+    "tagline": "Ishonchli raqamlar",
+    "title": "Vaqt sinovidan o‘tgan yutuqlar",
+    "description": "Biz moliya bozorini ichidan yaxshi bilamiz. O‘ttiz yillik tajriba, o‘nlab amalga oshirilgan loyihalar va har kuni foydalaniladigan mahsulotlar — mijozlarimiz ishonchi aynan shunga asoslanadi.",
+    "items": [
+      {
+        "icon": "work",
+        "value": "30+",
+        "label": "yillik tajriba"
+      },
+      {
+        "icon": "group",
+        "value": "40+",
+        "label": "mamnun mijozlar"
+      },
+      {
+        "icon": "tableRows",
+        "value": "50+",
+        "label": "moliyaviy mahsulot"
+      },
+      {
+        "icon": "headset",
+        "value": "24/7",
+        "label": "mijozlarga yordam"
+      }
+    ]
+  },
+  "industries": {
+    "tagline": "Yo‘nalishlar",
+    "title": "Moliya, biznes va davlat uchun texnologiyalar",
+    "image": "industries",
+    "items": [
+      {
+        "icon": "payments",
+        "title": "Moliya",
+        "description": "Korporativ bank tizimlari, skoring, islomiy banking, AML va operatsiyalar monitoringi",
+        "link": "/solutions"
+      },
+      {
+        "icon": "city",
+        "title": "Hukumat",
+        "description": "Davlat platformalari, raqamli identifikatsiya, reyestrlar va soliq xizmatlari",
+        "link": "/solutions"
+      },
+      {
+        "icon": "work",
+        "title": "Korporatsiya",
+        "description": "Yirik biznes uchun ERP, BPM, elektron hujjat aylanishi, BI va AI-assistentlar",
+        "link": "/solutions"
+      },
+      {
+        "icon": "school",
+        "title": "Akademiya",
+        "description": "Ta’lim mahsulotlari, dasturlash bo‘yicha o‘qitish va mutaxassislarni qayta tayyorlash",
+        "link": "/solutions"
+      }
+    ]
+  },
+  "methodology": {
+    "tagline": "Xizmatlar",
+    "title": "Joriy etish metodologiyasi\ndiagnostikadan hamrohlikkacha",
+    "items": [
+      {
+        "id": "diagnostics",
+        "title": "Diagnostika",
+        "description": "IT-infratuzilma auditi, biznes-jarayonlar tahlili va raqamli yechimlarni joriy etishga tayyorlikni baholash",
+        "duration": "2–4 hafta",
+        "image": "method-diagnostics"
+      },
+      {
+        "id": "architecture",
+        "title": "Arxitektura",
+        "description": "Biznes va texnik talablarni hisobga olgan holda yechim arxitekturasi, integratsiyalar va joriy etish yo‘l xaritasini loyihalashtiramiz",
+        "duration": "4–6 hafta",
+        "image": "method-architecture"
+      },
+      {
+        "id": "implementation",
+        "title": "Joriy etish",
+        "description": "Bosqichma-bosqich joriy etish: sozlash, ma’lumotlarni migratsiya qilish, integratsiya, testdan o‘tkazish va foydalanuvchilarni o‘qitish",
+        "duration": "3–12 oy",
+        "image": "method-implementation"
+      },
+      {
+        "id": "support",
+        "title": "Qo‘llab-quvvatlash",
+        "description": "Kecha-kunduz qo‘llab-quvvatlash, monitoring, insidentlarni tezkor bartaraf etish va muntazam yangilanishlar",
+        "duration": "Doimiy",
+        "image": "method-support"
+      }
+    ]
+  },
+  "clients": {
+    "tagline": "Bizning mijozlarimiz",
+    "title": "Bizni tanlagan kompaniyalar"
+  },
+  "cases": {
+    "tagline": "Loyihalar",
+    "title": "Metrikalar, matbuot\nrelizlari emas",
+    "featured": {
+      "title": "Mamlakatning top-5 banklaridan biri uchun yangi bank yadrosi",
+      "quote": "«Asosiy bank konturini 9 oyda ishga tushirdik. Fido jamoasi oldingi uchta pudratchi 4 yilda qila olmagan ishni amalga oshirdi.»",
+      "image": "case-main",
+      "metrics": [
+        {
+          "value": "−47%",
+          "label": "bozorga chiqish vaqti"
+        },
+        {
+          "value": "+120%",
+          "label": "tranzaksiya/sek"
+        }
+      ]
+    },
+    "items": [
+      {
+        "id": "tax-platform",
+        "category": "Davlat sektori",
+        "title": "Soliq platformasi",
+        "description": "Davlat organi uchun soliq platformasini ishlab chiqdik. Deklaratsiyalarni qayta ishlash 63% tezlashdi.",
+        "image": "case-tax",
+        "metric": {
+          "value": "−63%",
+          "label": "deklaratsiyani qayta ishlash vaqti"
+        }
+      },
+      {
+        "id": "mfi-scoring",
+        "category": "Yirik biznes",
+        "title": "MMT uchun skoring",
+        "description": "Mikromoliya tashkiloti uchun kredit skoring tizimi. Arizalar bo‘yicha qaror qabul qilishni avtomatlashtirdik: qo‘lda ishlov berishsiz 8 500 jarayon.",
+        "image": "case-scoring",
+        "metric": {
+          "value": "8 500",
+          "label": "jarayon avtomatlashtirildi"
+        }
+      }
+    ]
+  },
+  "insights": {
+    "tagline": "Bu qiziqarli",
+    "title": "Fintex haqida foydali",
+    "posts": [
+      {
+        "id": "fintech-course",
+        "date": "2026-08-14",
+        "title": "Toshkentda moliyaviy texnologiyalar bo‘yicha kurs ishga tushirilmoqda",
+        "excerpt": "Yangi dastur banklar va fintex kompaniyalari uchun mutaxassislar tayyorlaydi. Nimaga o‘rgatishi va kimga mos kelishi haqida so‘zlab beramiz.",
+        "image": "blog-1"
+      },
+      {
+        "id": "core-banking-migration",
+        "date": "2026-07-30",
+        "title": "Bank yadrosini migratsiya qilish: 5 ta asosiy xato",
+        "excerpt": "ABS almashtirish loyihalarida eng ko‘p uchraydigan xatolar va ularni qanday oldini olish mumkinligi haqida amaliy tajribamiz.",
+        "image": "blog-2"
+      },
+      {
+        "id": "ai-in-scoring",
+        "date": "2026-07-12",
+        "title": "Kredit skoringida sun’iy intellekt",
+        "excerpt": "Mashinaviy o‘qitish modellari arizalarni ko‘rib chiqish vaqtini qanday qisqartiradi va risklarni kamaytiradi.",
+        "image": "blog-3"
+      },
+      {
+        "id": "open-banking",
+        "date": "2026-06-25",
+        "title": "Open Banking: O‘zbekiston banklari nimaga tayyorlanishi kerak",
+        "excerpt": "Ochiq API standartlari, regulyator talablari va integratsiya bo‘yicha birinchi qadamlar.",
+        "image": "blog-4"
+      },
+      {
+        "id": "islamic-banking",
+        "date": "2026-06-08",
+        "title": "Islomiy banking: texnologik yechimlar",
+        "excerpt": "Shariat tamoyillariga mos mahsulotlarni avtomatlashtirish uchun qanday tizimlar kerak.",
+        "image": "blog-1"
+      },
+      {
+        "id": "gov-platforms",
+        "date": "2026-05-21",
+        "title": "Davlat xizmatlarini raqamlashtirish tajribasi",
+        "excerpt": "Reyestrlar va soliq platformalarini yaratishda biz duch kelgan muammolar va ularning yechimlari.",
+        "image": "blog-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+.root {
+  position: relative;
+}
+
+.trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  height: 48px;
+  padding: 0 16px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: var(--radius-pill);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background-color var(--transition);
+}
+
+.trigger:hover {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.code {
+  text-transform: capitalize;
+}
+
+.menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 20;
+  min-width: 180px;
+  padding: 6px;
+  border-radius: var(--radius-md);
+  background: #fff;
+  box-shadow: 0 16px 40px rgba(0, 10, 40, 0.35);
+  animation: drop 0.15s ease;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--color-text-dark);
+  font-size: 14px;
+  text-align: left;
+}
+
+.option:hover {
+  background: #f2f3f7;
+}
+
+.active {
+  background: #fff1e8;
+  color: var(--color-accent);
+}
+
+.optionCode {
+  width: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+@keyframes drop {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}

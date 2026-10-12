@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Fido Biznes — digital infrastructure of the financial market"
+  },
+  "languages": {
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "cases": "Cases",
+    "products": "Products",
+    "solutions": "Solutions",
+    "press": "Press center",
+    "career": "Careers",
+    "contacts": "Contacts"
+  },
+  "header": {
+    "requestDemo": "Request a demo",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "changeLanguage": "Change language"
+  },
+  "common": {
+    "viewAll": "View all",
+    "more": "Learn more",
+    "read": "Read",
+    "project": "Project",
+    "loading": "Loading...",
+    "error": "Failed to load data.",
+    "retry": "Retry",
+    "close": "Close"
+  },
+  "form": {
+    "title": "Demo request",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "First and last name",
+    "position": "Position",
+    "positionPlaceholder": "CIO / CTO / IT director",
+    "company": "Company",
+    "companyPlaceholder": "Organization name",
+    "phone": "Phone number",
+    "phonePlaceholder": "+998 97 --- -- --",
+    "email": "Email",
+    "emailPlaceholder": "email@company.com",
+    "product": "Product",
+    "productPlaceholder": "Select a product",
+    "message": "Message",
+    "messagePlaceholder": "Briefly describe your task",
+    "submit": "Send request",
+    "sending": "Sending...",
+    "agreement": "By submitting your data through this form, you consent to its processing in accordance with the Privacy Policy.",
+    "errors": {
+      "required": "Required field",
+      "phone": "Enter the full phone number",
+      "email": "Invalid email",
+      "send": "Failed to send the request. Please try again later.",
+      "config": "Telegram is not configured: set VITE_TG_BOT_TOKEN and VITE_TG_CHAT_ID in the .env file."
+    },
+    "success": {
+      "header": "Request received",
+      "title": "Thank you for your request!",
+      "description": "Your request has been sent successfully. A manager will contact you within 1 business day.",
+      "cases": "Explore cases",
+      "home": "Back to home"
+    },
+    "callCenter": "Call center",
+    "emailLabel": "Email"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page may have been moved or deleted, or you entered the wrong address. Go back home or explore our solutions.",
+    "home": "Go home",
+    "solutions": "All solutions"
+  },
+  "placeholder": {
+    "badge": "Coming soon",
+    "title": "This section is under development",
+    "text": "This page is being prepared. Meanwhile, you can explore the information on the home page.",
+    "back": "Go home"
+  },
+  "footer": {
+    "follow": "Follow us"
+  }
+}
